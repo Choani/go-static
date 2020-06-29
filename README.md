@@ -1,2 +1,2 @@
-# go-static-webpage
+# go-static
 go static serving webpage
